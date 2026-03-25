@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 87b8c534-c001-499a-978f-a0e9fbfe7e22
-  WEBAPP-NAME: eshoponweb-webapp-ram1
+  WEBAPP-NAME: eshoponweb-webapp-ram
 
 jobs:
   #Build, test and publish .net web project in repository
